@@ -31,7 +31,7 @@ Presented on 8 May 2019
 |3 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |4 | Parallel Newton Step for the SCOPF problem | Srivatsan Srinivasan, Aditya Karan, Cory Williams, Manish Reddy Vuyyuru| [GitHub](https://github.com/Srivatsan-Srinivasan/cs205-final-project), [Website](https://srivatsan-srinivasan.github.io/cs205-final-project/) |
 |5 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
-|6 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
+|6 | Bayesian Additive Regression Tress (BART) using Spark and CUDA | Beau Coker, Patrick Emedom-Nnamdi, Isabella Grabski, Hali Hambridge, Matthew Quinn | [GitHub](https://github.com/phimb/CS205-FinalProject/), [Website](https://github.com/phimb/CS205-FinalProject/) |
 |7 | Density Equalizing Maps | Millie Zhou, Benedikt Groever, Baptiste Lemaire | [GitHub](https://github.com/BGroever/DEM), [Website](https://milliezhou.github.io/cartogram/) 
 |8 | Large-Scale Distributed Sentiment Analysis With RNNs | Jianzhun Du, Rong Liu, Matteo Zhang, Yan Zhao | [GitHub](https://github.com/Duuuuuu/Large-Scale-Distributed-Sentiment-Analysis-with-RNNs), [Website](https://sophieyanzhao.github.io) |
 |9 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
